@@ -5,4 +5,4 @@ gráficas de trayectorias del Movimiento Browniano en python
 ##PUENTE DE WIENNER
 ![alt text](https://github.com/AndrsRamos/Movimiento-Browniano/blob/master/BrownianBridge.gif)
 ##GEOMETRIC BROWNIAN MOTION
-![alt text](https://github.com/AndrsRamos/Movimiento-Browniano/blob/master/GeometricBrownian.gif)
+![alt text](https://github.com/AndrsRamos/Movimiento-Browniano/blob/master/GeomBrownian.gif)
